@@ -1,3 +1,4 @@
+//=========================================================================================================================//
 public class super_keyword_examples 
 {
 	public void print()
@@ -10,7 +11,7 @@ public class super_keyword_examples
 //=========================================================================================================================//
 /*									============ super ============
  * - The super keyword in Java is a reference variable that is used to refer parent class objects.
- * - super can be used to call parent class’ variables and methods.
+ * - super can be used to call parent classâ€™ variables and methods.
  * - The variables and methods to be called through super keyword can be done at any time.
  * - If one does not explicitly invoke a superclass variables or methods, by using super keyword, then nothing happens.
  */
@@ -49,7 +50,7 @@ class Car extends Vehicle
 //=========================================================================================================================//
 /*									============ super() ============
  * - The super() in Java is a reference variable that is used to refer parent class constructors.
- * - super() can be used to call parent class’ constructors only.
+ * - super() can be used to call parent classâ€™ constructors only.
  * - Call to super() must be first statement in Derived(Student) Class constructor.
  * - If a constructor does not explicitly invoke a superclass constructor by using super(),
  * 	 the Java compiler automatically inserts a call to the no-argument constructor of the superclass.
