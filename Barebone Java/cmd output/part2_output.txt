@@ -1,0 +1,28 @@
+C:\Users\Aya\OneDrive\Desktop\FJP>jar -cfe MyProgram.jar FirstClass FirstClass.class SecondClass.class
+
+C:\Users\Aya\OneDrive\Desktop\FJP>dir *.jar
+ Volume in drive C is Windows
+ Volume Serial Number is 0878-8005
+
+ Directory of C:\Users\Aya\OneDrive\Desktop\FJP
+
+01/28/2020  06:41 PM             1,507 MyProgram.jar
+               1 File(s)          1,507 bytes
+               0 Dir(s)  881,350,438,912 bytes free
+
+C:\Users\Aya\OneDrive\Desktop\FJP>java -jar MyProgram.jar
+Hello World
+
+C:\Users\Aya\OneDrive\Desktop\FJP>jar -cfe MyProgram.jar SecondClass FirstClass.class SecondClass.class
+
+C:\Users\Aya\OneDrive\Desktop\FJP>java -jar MyProgram.jar
+Greeting World A
+Greeting World B
+Greeting World C
+Greeting World D
+Greeting World E
+Greeting World F
+Greeting World G
+Greeting World H
+Greeting World I
+Greeting World J
