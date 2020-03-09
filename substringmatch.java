@@ -8,7 +8,7 @@ characters only.
 For example, the call how_many(c) should return 2.
 */
 
-public class substring_match 
+public class substringmatch 
 {
 	//==================================================================//
     public static Boolean substring(String s1,String s2,int k) 
