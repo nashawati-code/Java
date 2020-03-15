@@ -1,0 +1,86 @@
+==========================================================================
+Test1=Checking if the numerator is zero
+Input1=(numerator = 0, denominator = 1)
+ExpectedOutput1=Rational number to represent the ratio (0/1) = 0
+==========================================================================
+Test2=Checking if the denominator is zero
+Input1=(numerator = 1, denominator = 0)
+ExpectedOutput1=IllegalArgumentException is thrown
+==========================================================================
+Test3=Checking if both the numerator and denominator are zero
+Input1=(numerator = 0, denominator = 0)
+ExpectedOutput1=IllegalArgumentException is thrown
+==========================================================================
+Test4=Checking rational positive with a long numerator and denominator
+Input1=(numerator = 4000, denominator = 8000)
+ExpectedOutput1=Test rational_long_positive_1 = 1/2
+==========================================================================
+Test5=Checking rational negative with a long numerator and denominator
+Input1=(numerator = -3000, denominator = 9000)
+ExpectedOutput1=Test rational_long_negative_5 = -1/3
+==========================================================================
+Test6=Checking rational negative with an int numerator and denominator
+Input1=(numerator = -4, denominator = 8)
+ExpectedOutput1=Test rational_negative_1 = -1/2
+==========================================================================
+Test7=Checking rational postive with an int numerator and denominator
+Input1=(numerator = 4, denominator = 8)
+ExpectedOutput1=Test rational_postive_5 = 1/2
+==========================================================================
+Test8=Checking rational postive with a int numerator and denominator
+Input1=(numerator = 0, denominator = 7)
+ExpectedOutput1=Test rational_postive_6 = 0
+==========================================================================
+Test9=Checking adding two rational numbers that equal 1
+Input1=(numerator = 1, denominator = 4)
+Input2=(numerator = 3, denominator = 4)
+ExpectedOutput1=Adding rational9 + rational10 = 1
+==========================================================================
+Test10=Checking adding two rational number that equal a fraction
+Input1=(numerator = 3, denominator = 4)
+Input2=(numerator = 2, denominator = 4)
+ExpectedOutput1=Adding rational11 + rational12 = 5/4
+==========================================================================
+Test11=Checking subtracting two rational number that equal a fraction
+Input1=(numerator = 5, denominator = 6)
+Input2=(numerator = 1, denominator = 6)
+ExpectedOutput1=Subtracting rational17 - rational18 = 2/3
+==========================================================================
+Test12=Checking subtracting one negative and one positive rational number
+Input1=(numerator = 2, denominator = 3)
+Input2=(numerator = -1, denominator = 3)
+ExpectedOutput1=Subtracting rational19 - rational20 = 1
+==========================================================================
+Test13=Checking multiplying two positive rational number
+Input1=(numerator = 1, denominator = 2)
+Input2=(numerator = 1, denominator = 3)
+ExpectedOutput1=Multiplying rational25 * rational26 = 1/6
+==========================================================================
+Test14= Checking multiplying one negative and one positive rational number
+Input1=(numerator = 2, denominator = 3)
+Input2=(numerator = -4, denominator = 5)
+ExpectedOutput1=Multiplying rational27 * rational28 = -8/15
+==========================================================================
+Test15=Checking dividing two positive rational number
+Input1=(numerator = 3, denominator = 4)
+Input2=(numerator = 1, denominator = 2)
+ExpectedOutput1=Dividing rational33 / rational34 = 3/2
+==========================================================================
+Test16=Checking dividing one negative and one positive rational number
+Input1=(numerator = 5, denominator = 8)
+Input2=(numerator = -3, denominator = 4)
+ExpectedOutput1=Dividing rational35 / rational36 = -5/6
+==========================================================================
+Test17=Checking tostring when answer is 1
+Input1=(numerator = 5, denominator = 5)
+ExpectedOutput1=toString test when answer is 1: 1
+==========================================================================
+Test18=Checking tostring when answer is a fraction
+Input1=(numerator = 3, denominator = 4)
+ExpectedOutput1=toString test when answer is a fraction: 3/4
+==========================================================================
+Test19=Checking tostring when answer is a negative fraction
+Input1=(numerator = -2, denominator = 4)
+ExpectedOutput1=toString test when answer is a negative fraction: -1/2
+==========================================================================
+

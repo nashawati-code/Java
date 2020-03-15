@@ -1,0 +1,67 @@
+OUTPUT FOR MAIN:
+Print the first RationalNumber: 1/2
+Print the second RationalNumber: 3
+r1 + r2: 7/2
+r1 - r2: -5/2
+r1 * r2: 3/2
+r1 / r2: 1/6
+==================================================
+Print the first RationalNumber: 23/842
+Print the second RationalNumber: 35/32
+r1 + r2: 15103/13472
+r1 - r2: -14367/13472
+r1 * r2: 805/26944
+r1 / r2: 368/14735
+
+OUTPUT FOR JUNIT TEST:
+------------------------------
+TESTING MULTIPLY 2
+Multiplying rational27 * rational28 = -8/15
+------------------------------
+TESTING POSITIVE INT 2
+Test rational_postive_6 = 0
+------------------------------
+TESTING POSITIVE LONG
+Test rational_long_positive_1 = 1/2
+------------------------------
+TESTING NEGATIVE LONG
+Test rational_long_negative_5 = -1/3
+------------------------------
+TESTING DIVIDE
+Dividing rational33 / rational34 = 3/2
+------------------------------
+TESTING ADD
+Adding rational9 + rational10 = 1
+------------------------------
+TESTING POSITIVE INT
+Test rational_postive_5 = 1/2
+------------------------------
+TESTING STRING
+toString test when answer is 1: 1
+------------------------------
+TESTING SUBTRACT 2
+Subtracting rational19 - rational20 = 1
+------------------------------
+TESTING NEGATIVE INT
+Test rational_negative_1 = -1/2
+------------------------------
+TESTING MULTIPLY
+Multiplying rational25 * rational26 = 1/6
+------------------------------
+TESTING SUBTRACT
+Subtracting rational17 - rational18 = 2/3
+------------------------------
+TESTING ADD 2
+Adding rational11 + rational12 = 5/4
+------------------------------
+TESTING STRING 2
+toString test when answer is a fraction: 3/4
+------------------------------
+TESTING STRING 3
+toString test when answer is a negative fraction: -1/2
+------------------------------
+TESTING NUMERATOR ZERO
+Rational number to represent the ratio (0/1) = 0
+------------------------------
+TESTING DIVIDE 2
+Dividing rational35 / rational36 = -5/6
