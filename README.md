@@ -1,12 +1,6 @@
 ---
 
 ### :bank: [Bank Class](https://github.com/aya-nashawati/Java/tree/master/Bank%20Class)
-
- * Basic Chat Form GUI
- * Basic GUI
-
-
-
 ---
 
 ### :straight_ruler: [Barbone Java](https://github.com/aya-nashawati/Java/tree/master/Barebone%20Java)
