@@ -8,7 +8,7 @@
 
 ###### :checkered_flag: [Concurrency](https://github.com/aya-nashawati/Java/tree/master/Concurrency)
 
-###### ":white_square_b: [GUI](https://github.com/aya-nashawati/Java/tree/master/GUI)
+###### :white_square_b: [GUI](https://github.com/aya-nashawati/Java/tree/master/GUI)
 
     Basic Chat Form GUI
 
