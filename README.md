@@ -4,11 +4,11 @@
 
 ---
 
-### :straight_ruler: [Barbone Java](https://github.com/aya-nashawati/Java/tree/master/Barebone%20Java)
+###### :straight_ruler: [Barbone Java](https://github.com/aya-nashawati/Java/tree/master/Barebone%20Java)
 
 ---
 
-### :roller_coaster: [Composition](https://github.com/aya-nashawati/Java/tree/master/Composition%20over%20Inheritance)
+###### :roller_coaster: [Composition](https://github.com/aya-nashawati/Java/tree/master/Composition%20over%20Inheritance)
 
 ---
 
