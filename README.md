@@ -10,9 +10,9 @@
 
 ### [GUI](https://github.com/aya-nashawati/Java/tree/master/GUI)
 
-:arrow_forward: [Basic Chat Form GUI](https://github.com/aya-nashawati/Java/tree/master/GUI/Basic%20Chat%20Form%20GUI)
+    Basic Chat Form GUI
 
-:arrow_forward: [Basic GUI](https://github.com/aya-nashawati/Java/tree/master/GUI/Basic%20GUI)
+    Basic GUI
 
 ### :bulb: [Lexical Analyzer](https://github.com/aya-nashawati/Java/tree/master/Lexical%20Analyzer)
 
