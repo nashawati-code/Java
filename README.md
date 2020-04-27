@@ -1,14 +1,14 @@
 # Java
 
-### :bank: [Bank Class](https://github.com/aya-nashawati/Java/tree/master/Bank%20Class)
+###### :bank: [Bank Class](https://github.com/aya-nashawati/Java/tree/master/Bank%20Class)
 
-### :straight_ruler: [Barbone Java](https://github.com/aya-nashawati/Java/tree/master/Barebone%20Java)
+###### :straight_ruler: [Barbone Java](https://github.com/aya-nashawati/Java/tree/master/Barebone%20Java)
 
 ###### :roller_coaster: [Composition](https://github.com/aya-nashawati/Java/tree/master/Composition%20over%20Inheritance)
 
 ###### :checkered_flag: [Concurrency](https://github.com/aya-nashawati/Java/tree/master/Concurrency)
 
-###### :white_square_b: [GUI](https://github.com/aya-nashawati/Java/tree/master/GUI)
+###### :white_square_button: [GUI](https://github.com/aya-nashawati/Java/tree/master/GUI)
 
     Basic Chat Form GUI
 
