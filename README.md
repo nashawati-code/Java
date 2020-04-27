@@ -1,5 +1,8 @@
 # Java
-Code, notes and projects in Java.
+
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list.
 
 ⋅⋅* [Bank Class](https://github.com/aya-nashawati/Java/tree/master/Bank%20Class)
 
