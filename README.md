@@ -1,12 +1,12 @@
 # Java
 
-[Bank Class](https://github.com/aya-nashawati/Java/tree/master/Bank%20Class)
+## [Bank Class](https://github.com/aya-nashawati/Java/tree/master/Bank%20Class)
 
-[Barbone Java](https://github.com/aya-nashawati/Java/tree/master/Barebone%20Java)
+## [Barbone Java](https://github.com/aya-nashawati/Java/tree/master/Barebone%20Java)
 
-[Composition](https://github.com/aya-nashawati/Java/tree/master/Composition%20over%20Inheritance)
+## [Composition](https://github.com/aya-nashawati/Java/tree/master/Composition%20over%20Inheritance)
 
-[Concurrency](https://github.com/aya-nashawati/Java/tree/master/Concurrency)
+## [Concurrency](https://github.com/aya-nashawati/Java/tree/master/Concurrency)
 
 ## [GUI](https://github.com/aya-nashawati/Java/tree/master/GUI)
 
@@ -40,4 +40,4 @@
 
     towers_of_hanoi
 
-[Lexical Analyzer](https://github.com/aya-nashawati/Java/tree/master/Lexical%20Analyzer)
+## [Lexical Analyzer](https://github.com/aya-nashawati/Java/tree/master/Lexical%20Analyzer)
