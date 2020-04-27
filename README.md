@@ -18,10 +18,10 @@
 
 ### :white_square_button: [GUI](https://github.com/aya-nashawati/Java/tree/master/GUI)
 
-    Basic Chat Form GUI
+        Basic Chat Form GUI
 
-    Basic GUI
-    
+        Basic GUI
+
 ---
 
 ### :bulb: [Lexical Analyzer](https://github.com/aya-nashawati/Java/tree/master/Lexical%20Analyzer)
