@@ -1,6 +1,7 @@
 ---
 
 ### :bank: [Bank Class](https://github.com/aya-nashawati/Java/tree/master/Bank%20Class)
+
  * Account
  * AccountTransferTransaction
  * AccountTypeEnum
@@ -35,6 +36,7 @@
 ---
 
 ### :white_square_button: [GUI](https://github.com/aya-nashawati/Java/tree/master/GUI)
+
  * Basic Chat Form GUI
  * Basic GUI
 
