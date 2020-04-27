@@ -1,7 +1,7 @@
 ---
 
 ### :bank: [Bank Class](https://github.com/aya-nashawati/Java/tree/master/Bank%20Class)
-Account
+ * Account
  * AccountTransferTransaction
  * AccountTypeEnum
  * Bank
@@ -35,9 +35,7 @@ Account
 ---
 
 ### :white_square_button: [GUI](https://github.com/aya-nashawati/Java/tree/master/GUI)
-
  * Basic Chat Form GUI
-
  * Basic GUI
 
 ---
@@ -57,21 +55,13 @@ Account
 ### :repeat: [Recursion](https://github.com/aya-nashawati/Java/tree/master/Recursion)
 
  * LinkedLists
-
  * EightQueens
-
  * fibonacci_recursion
-
  * file
-
  * mystery
-
  * mystery_recursion
-
  * permutations
-
  * subsequences_recursion
-
  * towers_of_hanoi
     
 ---
