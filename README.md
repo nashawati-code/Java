@@ -38,22 +38,22 @@
 
 ### :repeat: [Recursion](https://github.com/aya-nashawati/Java/tree/master/Recursion)
 
-    LinkedLists
-    
-    EightQueens
-    
-    fibonacci_recursion
+            LinkedLists
 
-    file
+            EightQueens
 
-    mystery
+            fibonacci_recursion
 
-    mystery_recursion
+            file
 
-    permutations
+            mystery
 
-    subsequences_recursion
+            mystery_recursion
 
-    towers_of_hanoi
+            permutations
+
+            subsequences_recursion
+
+            towers_of_hanoi
     
 ---
