@@ -38,7 +38,7 @@
 ### :bulb: [Lexical Analyzer](https://github.com/aya-nashawati/Java/tree/master/Lexical%20Analyzer)
 ---
 
-### :map: [Map, Filter, Reduce](https://github.com/aya-nashawati/Java/tree/master/Map%2C%20Filter%2C%20Reduce)
+### 🗺️ [Map, Filter, Reduce](https://github.com/aya-nashawati/Java/tree/master/Map%2C%20Filter%2C%20Reduce)
 ---
 
 ### :running: [Method Dispatch and Visitors](https://github.com/aya-nashawati/Java/tree/master/Method%20Dispatch%20and%20Visitors)
