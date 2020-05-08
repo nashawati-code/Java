@@ -44,6 +44,9 @@
 ### :running: [Method Dispatch and Visitors](https://github.com/aya-nashawati/Java/tree/master/Method%20Dispatch%20and%20Visitors)
 ---
 
+### :interrobang: [Random Sentence Generator](https://github.com/aya-nashawati/Java/tree/master/Random%Sentence%Generator)
+---
+
 ### :1234: [Rational Numbers](https://github.com/aya-nashawati/Java/tree/master/Rational%20Numbers)
 ---
 
